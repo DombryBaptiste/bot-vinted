@@ -1,0 +1,960 @@
+INFO:root:2024-04-20 19:14:51.383048+00:00
+INFO:root:\U0001f195 Nymphali V 184/203 alternative - Évolution Céleste
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 121.9 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393019028-nymphali-v-184203-alternative-evolution-celeste
+
+INFO:root:2024-04-20 19:15:57.376935+00:00
+INFO:root:\U0001f195 Phyllali V 167/203 alternative - Évolution Céleste
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 142.9 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393023977-phyllali-v-167203-alternative-evolution-celeste
+
+INFO:root:2024-04-20 19:17:03.560072+00:00
+INFO:root:\U0001f195 Phyllali vmax 205/203 alternative - Évolution Céleste
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 329.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393028824-phyllali-vmax-205203-alternative-evolution-celeste
+
+INFO:root:2024-04-20 19:17:03.560072+00:00
+INFO:root:\U0001f195 Phyllali V 167/203 alternative - Évolution Céleste
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 142.9 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393023977-phyllali-v-167203-alternative-evolution-celeste
+
+INFO:root:2024-04-20 19:18:10.776637+00:00
+INFO:root:\U0001f195 Phyllali vmax 205/203 alternative - Évolution Céleste
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 329.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393028824-phyllali-vmax-205203-alternative-evolution-celeste
+
+INFO:root:2024-04-20 19:23:32.735979+00:00
+INFO:root:\U0001f195 Dracaufeu 199/165 Pokémon 151
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 330.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393055654-dracaufeu-199165-pokemon-151
+
+INFO:root:2024-04-20 19:24:38.639017+00:00
+INFO:root:\U0001f195 Dracaufeu 199/165 Pokémon 151
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 330.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393055654-dracaufeu-199165-pokemon-151
+
+INFO:root:2024-04-20 19:40:39.392512+00:00
+INFO:root:\U0001f195 Serpent eau 205 Endommagé !
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 130.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393118483-serpent-eau-205-endommage
+
+INFO:root:2024-04-20 19:49:14.014275+00:00
+INFO:root:\U0001f195 Nymphali-vmax TG15 PSA 10 \U0001f1eb\U0001f1f7
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 129.99 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393149471-nymphali-vmax-tg15-psa-10
+
+INFO:root:2024-04-20 19:52:27.221554+00:00
+INFO:root:\U0001f195 Sylveroy cavalier d'effroi vmax 205 PSA 10 \U0001f1eb\U0001f1f7
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 280.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393164510-sylveroy-cavalier-deffroi-vmax-205-psa-10
+
+INFO:root:2024-04-20 19:53:32.803900+00:00
+INFO:root:\U0001f195 Sylveroy cavalier d'effroi vmax 205 PSA 10 \U0001f1eb\U0001f1f7
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 280.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393164510-sylveroy-cavalier-deffroi-vmax-205-psa-10
+
+INFO:root:2024-04-20 20:14:52.238704+00:00
+INFO:root:\U0001f195 Lugia 15/95 holo et reverse appel des légendes
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 120.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393238612-lugia-1595-holo-et-reverse-appel-des-legendes
+
+INFO:root:2024-04-20 20:18:08.551572+00:00
+INFO:root:\U0001f195 Lot pokémon 151 faille paradoxe bundle et etb
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 250.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393249971-lot-pokemon-151-faille-paradoxe-bundle-et-etb
+
+INFO:root:2024-04-20 21:06:06.095313+00:00
+INFO:root:\U0001f195 Ire-Foudre Ex alternative 208/162
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 130.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393387848-ire-foudre-ex-alternative-208162
+
+INFO:root:2024-04-20 21:13:35.673338+00:00
+INFO:root:\U0001f195 Lot 1 divers
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 172.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393405285-lot-1-divers
+
+INFO:root:2024-04-20 21:14:41.632545+00:00
+INFO:root:\U0001f195 Lot 2 divers
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 110.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393408314-lot-2-divers
+
+INFO:root:2024-04-20 21:15:47.350100+00:00
+INFO:root:\U0001f195 Lot divers 3
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 77.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393411998-lot-divers-3
+
+INFO:root:2024-04-20 21:16:53.938501+00:00
+INFO:root:\U0001f195 Lot divers 3
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 77.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393411998-lot-divers-3
+
+INFO:root:2024-04-20 21:17:59.078992+00:00
+INFO:root:\U0001f195 Lot divers 4
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 54.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393415636-lot-divers-4
+
+INFO:root:2024-04-20 21:26:32.242471+00:00
+INFO:root:\U0001f195 Roc-de-fer 217/162
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 35.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393435699-roc-de-fer-217162
+
+INFO:root:2024-04-20 21:27:38.291068+00:00
+INFO:root:\U0001f195 Roc-de-fer 217/162
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 35.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393435699-roc-de-fer-217162
+
+INFO:root:2024-04-20 22:04:47.353256+00:00
+INFO:root:\U0001f195 Elite Trainer Box 151 Pokemon
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 53.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393502899-elite-trainer-box-151-pokemon
+
+INFO:root:2024-04-20 22:05:53.157989+00:00
+INFO:root:\U0001f195 Elite Trainer Box 151 Pokemon
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 53.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393502899-elite-trainer-box-151-pokemon
+
+INFO:root:2024-04-21 07:36:00.030482+00:00
+INFO:root:\U0001f195 Magmar 36/102 set de base edition 1 PSA 10
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 190.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393773587-magmar-36102-set-de-base-edition-1-psa-10
+
+INFO:root:2024-04-21 07:37:05.944367+00:00
+INFO:root:\U0001f195 Dracaufeu EX FA 199/165 PCA 9,5
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 350.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393766564-dracaufeu-ex-fa-199165-pca-95
+
+INFO:root:2024-04-21 07:37:05.944367+00:00
+INFO:root:\U0001f195 Pokémon Red's Pikachu Promo 270/SM-P
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 180.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393779283-pokemon-reds-pikachu-promo-270sm-p
+
+INFO:root:2024-04-21 07:37:05.944367+00:00
+INFO:root:\U0001f195 Magmar 36/102 set de base edition 1 PSA 10
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 190.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393773587-magmar-36102-set-de-base-edition-1-psa-10
+
+INFO:root:2024-04-21 07:38:14.332200+00:00
+INFO:root:\U0001f195 Dracaufeu Vstar 018/172 PCA 9,5 Stars étincelantes
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 55.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393770682-dracaufeu-vstar-018172-pca-95-stars-etincelantes
+
+INFO:root:2024-04-21 07:38:14.333198+00:00
+INFO:root:\U0001f195 Dracaufeu EX FA 199/165 PCA 9,5
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 350.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393766564-dracaufeu-ex-fa-199165-pca-95
+
+INFO:root:2024-04-21 07:39:21.996428+00:00
+INFO:root:\U0001f195 Coffret evoli radieux premium Français
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 60.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393783693-coffret-evoli-radieux-premium-francais
+
+INFO:root:2024-04-21 07:40:27.581317+00:00
+INFO:root:\U0001f195 Coffret dracaufeu premium Français
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 260.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393789647-coffret-dracaufeu-premium-francais
+
+INFO:root:2024-04-21 07:52:09.299370+00:00
+INFO:root:\U0001f195 Carte Pokémon Serpente-Eau 205/162 ** Forces Temporelles FR
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 205.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4393945034-carte-pokemon-serpente-eau-205162-forces-temporelles-fr
+
+INFO:root:2024-04-21 08:17:45.200517+00:00
+INFO:root:\U0001f195 Roc de Fer ex alternative
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 75.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4394060494-roc-de-fer-ex-alternative
+
+INFO:root:2024-04-21 08:32:41.967563+00:00
+INFO:root:\U0001f195 Feu-Perçant EX
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 120.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4394139672-feu-percant-ex
+
+INFO:root:2024-04-21 08:34:49.011041+00:00
+INFO:root:\U0001f195 Carte Pokémon, Serpente eau ex
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 200.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4394153847-carte-pokemon-serpente-eau-ex
+
+INFO:root:2024-04-21 08:41:16.099618+00:00
+INFO:root:\U0001f195 Vert-de-Fer ex alternative
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 120.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4394190930-vert-de-fer-ex-alternative
+
+INFO:root:2024-04-21 09:34:34.103489+00:00
+INFO:root:\U0001f195 Codici pokemon 151 online Promo incluse
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 50.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4394558091-codici-pokemon-151-online-promo-incluse
+
+INFO:root:2024-04-21 09:35:39.865733+00:00
+INFO:root:\U0001f195 Codici pokemon 151 online Promo incluse
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 50.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4394558091-codici-pokemon-151-online-promo-incluse
+
+INFO:root:2024-04-21 09:56:59.849931+00:00
+INFO:root:\U0001f195 Pokemon - Ultra premium box 151 ENG
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 134.99 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4394732346-pokemon-ultra-premium-box-151-eng
+
+INFO:root:2024-04-21 09:58:05.753405+00:00
+INFO:root:\U0001f195 Pokemon - Ultra premium box 151 ENG
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 134.99 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4394732346-pokemon-ultra-premium-box-151-eng
+
+INFO:root:2024-04-21 10:10:53.241285+00:00
+INFO:root:\U0001f195 Chef-de-Fer 206/162 FR
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 135.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4394841072-chef-de-fer-206162-fr
+
+INFO:root:2024-04-21 10:11:58.937021+00:00
+INFO:root:\U0001f195 Chef-de-Fer 206/162 FR
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 135.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4394841072-chef-de-fer-206162-fr
+
+INFO:root:2024-04-21 10:54:35.591627+00:00
+INFO:root:\U0001f195 Duralugon vmax 220/203 evolution celeste
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 50.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4395183253-duralugon-vmax-220203-evolution-celeste
+
+INFO:root:2024-04-21 10:55:41.504345+00:00
+INFO:root:\U0001f195 Duralugon vmax 220/203 evolution celeste
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 50.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4395183253-duralugon-vmax-220203-evolution-celeste
+
+INFO:root:2024-04-21 11:02:05.782434+00:00
+INFO:root:\U0001f195 Pokèmon ETB 151
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 65.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4395242997-pokemon-etb-151
+
+INFO:root:2024-04-21 11:03:11.712517+00:00
+INFO:root:\U0001f195 Pokèmon ETB 151
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 65.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4395242997-pokemon-etb-151
+
+INFO:root:2024-04-21 11:07:30.535078+00:00
+INFO:root:\U0001f195 Roc-de-fer 217/162 forces temporelles near Mint
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 34.99 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4395281798-roc-de-fer-217162-forces-temporelles-near-mint
+
+INFO:root:2024-04-21 11:12:51.808916+00:00
+INFO:root:\U0001f195 Feu perçant ex
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 120.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4395324998-feu-percant-ex
+
+INFO:root:2024-04-21 11:13:56.106766+00:00
+INFO:root:\U0001f195 Lot cartes Pokémon « Force Temporelle »
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 72.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4395333449-lot-cartes-pokemon-force-temporelle
+
+INFO:root:2024-04-21 11:13:56.700008+00:00
+INFO:root:\U0001f195 Vert de fer ex
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 100.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4395330532-vert-de-fer-ex
+
+INFO:root:2024-04-21 11:13:58.108954+00:00
+INFO:root:\U0001f195 Feu perçant ex
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 120.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4395324998-feu-percant-ex
+
+INFO:root:2024-04-21 11:15:06.199180+00:00
+INFO:root:\U0001f195 Lot cartes Pokémon « Force Temporelle »
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 72.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4395333449-lot-cartes-pokemon-force-temporelle
+
+INFO:root:2024-04-21 11:22:34.605226+00:00
+INFO:root:\U0001f195 Serpente-eau EX 205/162
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 200.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4395395169-serpente-eau-ex-205162
+
+INFO:root:2024-04-21 11:32:13.812456+00:00
+INFO:root:\U0001f195 Feu-Perçant 204/162 - Forces Temporelles - EV5
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 120.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4395474332-feu-percant-204162-forces-temporelles-ev5
+
+INFO:root:2024-04-21 11:54:33.066591+00:00
+INFO:root:\U0001f195 Carte pokemon Florizarre & Tortank Célébration PSA 9
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 95.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4395654977-carte-pokemon-florizarre-tortank-celebration-psa-9
+
+INFO:root:2024-04-21 11:55:39.329987+00:00
+INFO:root:\U0001f195 Carte pokemon Florizarre & Tortank Célébration PSA 9
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 95.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4395654977-carte-pokemon-florizarre-tortank-celebration-psa-9
+
+INFO:root:2024-04-21 12:28:37.908192+00:00
+INFO:root:\U0001f195 Carte Pokemon Vert-de-Fer
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 80.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4395936413-carte-pokemon-vert-de-fer
+
+INFO:root:2024-04-21 12:29:43.663395+00:00
+INFO:root:\U0001f195 Carte Pokemon Vert-de-Fer
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 80.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4395936413-carte-pokemon-vert-de-fer
+
+INFO:root:2024-04-21 12:40:22.802113+00:00
+INFO:root:\U0001f195 Lot coffret pokémon 151 scellés
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 480.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4396036013-lot-coffret-pokemon-151-scelles
+
+INFO:root:2024-04-21 12:41:28.968609+00:00
+INFO:root:\U0001f195 Lot coffret pokémon 151 scellés
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 480.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4396036013-lot-coffret-pokemon-151-scelles
+
+INFO:root:2024-04-21 12:45:47.603976+00:00
+INFO:root:\U0001f195 Carte Pokémon Chef-de-fer ex
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 100.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4396084132-carte-pokemon-chef-de-fer-ex
+
+INFO:root:2024-04-21 12:46:54.312745+00:00
+INFO:root:\U0001f195 Carte Pokémon Chef-de-fer ex
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 100.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4396084132-carte-pokemon-chef-de-fer-ex
+
+INFO:root:2024-04-21 12:49:03.622898+00:00
+INFO:root:\U0001f195 Etb 151 + pack da 6 151
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 120.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4396111325-etb-151-pack-da-6-151
+
+INFO:root:2024-04-21 12:50:09.580124+00:00
+INFO:root:\U0001f195 Etb 151 + pack da 6 151
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 120.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4396111325-etb-151-pack-da-6-151
+
+INFO:root:2024-04-21 12:56:32.755058+00:00
+INFO:root:\U0001f195 Serpente-eau ex SAR (TEF 205)
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 160.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4396177791-serpente-eau-ex-sar-tef-205
+
+INFO:root:2024-04-21 12:57:38.703527+00:00
+INFO:root:\U0001f195 Serpente-eau ex SAR (TEF 205)
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 179.99 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4396177791-serpente-eau-ex-sar-tef-205
+
+INFO:root:2024-04-21 12:59:48.338596+00:00
+INFO:root:\U0001f195 Ire-Foudre ex SAR (TEF 208)
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 180.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4396201652-ire-foudre-ex-sar-tef-208
+
+INFO:root:2024-04-21 13:09:24.310477+00:00
+INFO:root:\U0001f195 Carte Pokémon Ire-Foudre 208/162
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 140.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4396290094-carte-pokemon-ire-foudre-208162
+
+INFO:root:2024-04-21 13:10:30.540775+00:00
+INFO:root:\U0001f195 Carte Pokémon Ire-Foudre 208/162
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 140.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4396290094-carte-pokemon-ire-foudre-208162
+
+INFO:root:2024-04-21 13:42:32.341659+00:00
+INFO:root:\U0001f195 Ire-foudre Ex Alternative 208/162 - FR
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 165.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4396583147-ire-foudre-ex-alternative-208162-fr
+
+INFO:root:2024-04-21 13:54:23.452391+00:00
+INFO:root:\U0001f195 Roc-de-fer ex gold Force temporelle
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 28.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4396693954-roc-de-fer-ex-gold-force-temporelle
+
+INFO:root:2024-04-21 14:30:48.186545+00:00
+INFO:root:\U0001f195 Elite Trainer Box 151 Pokemon
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 53.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4397034461-elite-trainer-box-151-pokemon
+
+INFO:root:2024-04-21 14:31:54.605648+00:00
+INFO:root:\U0001f195 Elite Trainer Box 151 Pokemon
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 53.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4397034461-elite-trainer-box-151-pokemon
+
+INFO:root:2024-04-21 14:39:25.151325+00:00
+INFO:root:\U0001f195 Coffret dresseur d'élite pokemon 151 fr
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 135.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4397109117-coffret-dresseur-delite-pokemon-151-fr
+
+INFO:root:2024-04-21 14:53:21.706592+00:00
+INFO:root:\U0001f195 ETB 151 Ita
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 85.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4397243314-etb-151-ita
+
+INFO:root:2024-04-21 15:22:13.466247+00:00
+INFO:root:\U0001f195 Lot cartes Série 151 FR
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 69.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4397521497-lot-cartes-serie-151-fr
+
+INFO:root:2024-04-21 15:23:19.636182+00:00
+INFO:root:\U0001f195 Lot cartes Série 151 FR
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 69.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4397521497-lot-cartes-serie-151-fr
+
+INFO:root:2024-04-21 15:28:42.173652+00:00
+INFO:root:\U0001f195 Chef de fer ex alternative 206/162 EV5 force temporelle
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 110.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4397586813-chef-de-fer-ex-alternative-206162-ev5-force-temporelle
+
+INFO:root:2024-04-21 15:29:48.173868+00:00
+INFO:root:\U0001f195 Chef de fer ex alternative 206/162 EV5 force temporelle
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 110.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4397586813-chef-de-fer-ex-alternative-206162-ev5-force-temporelle
+
+INFO:root:2024-04-21 15:49:02.011795+00:00
+INFO:root:\U0001f195 ETB Pokemon 151
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 69.99 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4397784211-etb-pokemon-151
+
+INFO:root:2024-04-21 15:50:07.718232+00:00
+INFO:root:\U0001f195 ETB Pokemon 151
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 69.99 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4397784211-etb-pokemon-151
+
+INFO:root:2024-04-21 16:05:03.501591+00:00
+INFO:root:\U0001f195 CARTE pokemon Serpente-eau Ex 205/162 Forces Temporelles
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 200.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4397939015-carte-pokemon-serpente-eau-ex-205162-forces-temporelles
+
+INFO:root:2024-04-21 16:06:09.441916+00:00
+INFO:root:\U0001f195 CARTE pokemon Serpente-eau Ex 205/162 Forces Temporelles
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 200.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4397939015-carte-pokemon-serpente-eau-ex-205162-forces-temporelles
+
+INFO:root:2024-04-21 16:36:02.229402+00:00
+INFO:root:\U0001f195 Ire-Foudre EX 208/162
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 160.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4398226826-ire-foudre-ex-208162
+
+INFO:root:2024-04-21 16:36:03.358058+00:00
+INFO:root:\U0001f195 Carte Pokémon Chef-De-Fer Alt série Force Temporelle
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 100.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4398226404-carte-pokemon-chef-de-fer-alt-serie-force-temporelle
+
+INFO:root:2024-04-21 17:01:50.212286+00:00
+INFO:root:\U0001f195 Gros lot cartes pokemon +- 709 cartes
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 70.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4398461155-gros-lot-cartes-pokemon-709-cartes
+
+INFO:root:2024-04-21 17:06:10.161844+00:00
+INFO:root:\U0001f195 Lot ex Ev5
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 28.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4398495456-lot-ex-ev5
+
+INFO:root:2024-04-21 17:07:13.713729+00:00
+INFO:root:\U0001f195 Carte pokémon gradée 9,5 Ire-foudre ex
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 190.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4398506998-carte-pokemon-gradee-95-ire-foudre-ex
+
+INFO:root:2024-04-21 17:12:39.439411+00:00
+INFO:root:\U0001f195 Etb 151
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 75.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4398556915-etb-151
+
+INFO:root:2024-04-21 17:13:45.231905+00:00
+INFO:root:\U0001f195 Etb 151
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 75.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4398556915-etb-151
+
+INFO:root:2024-04-21 17:26:46.595078+00:00
+INFO:root:\U0001f195 Juliette FA XY Impulsion Turbo
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 50.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4398666489-juliette-fa-xy-impulsion-turbo
+
+INFO:root:2024-04-21 17:40:49.278585+00:00
+INFO:root:\U0001f195 Carte Pokémon Chef-de-Fer Alt série Force Temporelle
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 150.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4398785061-carte-pokemon-chef-de-fer-alt-serie-force-temporelle
+
+INFO:root:2024-04-21 17:41:55.878494+00:00
+INFO:root:\U0001f195 Carte Pokémon Chef-de-Fer Alt série Force Temporelle
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 150.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4398785061-carte-pokemon-chef-de-fer-alt-serie-force-temporelle
+
+INFO:root:2024-04-21 18:01:13.614092+00:00
+INFO:root:\U0001f195 Carte Pokémon escouade Pikachu et Zekrom gx promo sm168 Alternative Française
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 359.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4398934038-carte-pokemon-escouade-pikachu-et-zekrom-gx-promo-sm168-alternative-francaise
+
+INFO:root:2024-04-21 18:08:42.570192+00:00
+INFO:root:\U0001f195 Bundle Pokemon 151
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 290.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4398991524-bundle-pokemon-151
+
+INFO:root:2024-04-21 18:39:39.483707+00:00
+INFO:root:\U0001f195 Lot carte Pokémon
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 50.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399208210-lot-carte-pokemon
+
+INFO:root:2024-04-21 18:40:45.948571+00:00
+INFO:root:\U0001f195 Lot carte Pokémon
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 50.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399208210-lot-carte-pokemon
+
+INFO:root:2024-04-21 18:41:50.384126+00:00
+INFO:root:\U0001f195 lot carte pokemon+grader
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 70.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399221332-lot-carte-pokemongrader
+
+INFO:root:2024-04-21 18:42:55.895079+00:00
+INFO:root:\U0001f195 lot carte pokemon+grader
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 70.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399221332-lot-carte-pokemongrader
+
+INFO:root:2024-04-21 18:45:06.997876+00:00
+INFO:root:\U0001f195 Gros lot cartes pokemon +- 709 cartes
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 70.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399242126-gros-lot-cartes-pokemon-709-cartes
+
+INFO:root:2024-04-21 18:48:21.111860+00:00
+INFO:root:\U0001f195 Case etb 151 Pokémon
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 490.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399262415-case-etb-151-pokemon
+
+INFO:root:2024-04-21 18:48:22.726769+00:00
+INFO:root:\U0001f195 roc-de fer ex 207/162
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 80.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399265251-roc-de-fer-ex-207162
+
+INFO:root:2024-04-21 18:49:30.736533+00:00
+INFO:root:\U0001f195 roc-de fer ex 207/162
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 80.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399265251-roc-de-fer-ex-207162
+
+INFO:root:2024-04-21 18:53:47.165830+00:00
+INFO:root:\U0001f195 Shiny Destinées de Paldea
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 300.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399300629-shiny-destinees-de-paldea
+
+INFO:root:2024-04-21 18:54:53.097857+00:00
+INFO:root:\U0001f195 Shiny Destinées de Paldea
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 300.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399300629-shiny-destinees-de-paldea
+
+INFO:root:2024-04-21 18:57:02.079239+00:00
+INFO:root:\U0001f195 Ire foudre
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 180.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399316504-ire-foudre
+
+INFO:root:2024-04-21 19:13:30.829680+00:00
+INFO:root:\U0001f195 Zone Ultime DP55 Promo PCA 9
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 120.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399418329-zone-ultime-dp55-promo-pca-9
+
+INFO:root:2024-04-21 19:14:40.200650+00:00
+INFO:root:\U0001f195 Zone Ultime DP55 Promo PCA 9
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 120.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399418329-zone-ultime-dp55-promo-pca-9
+
+INFO:root:2024-04-21 19:16:54.654250+00:00
+INFO:root:\U0001f195 Chef de Fer 206
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 115.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399433830-chef-de-fer-206
+
+INFO:root:2024-04-21 19:18:02.556276+00:00
+INFO:root:\U0001f195 Roserade 17/132 DP Merveilles Secrètes PCA 8
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 80.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399444433-roserade-17132-dp-merveilles-secretes-pca-8
+
+INFO:root:2024-04-21 19:19:09.446131+00:00
+INFO:root:\U0001f195 Roserade 17/132 DP Merveilles Secrètes PCA 8
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 80.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399444433-roserade-17132-dp-merveilles-secretes-pca-8
+
+INFO:root:2024-04-21 19:26:50.910662+00:00
+INFO:root:\U0001f195 Jeux GB Pokémon HGSS Jap
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 120.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399490284-jeux-gb-pokemon-hgss-jap
+
+INFO:root:2024-04-21 20:25:52.231964+00:00
+INFO:root:\U0001f195 ETB Pokémon 151
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 75.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399677126-etb-pokemon-151
+
+INFO:root:2024-04-21 20:54:50.386098+00:00
+INFO:root:\U0001f195 Lot de 18 blisters EV03 Flammes Obsidiennes FR\U0001f1eb\U0001f1f7
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 85.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399794862-lot-de-18-blisters-ev03-flammes-obsidiennes-fr
+
+INFO:root:2024-04-21 20:55:56.978577+00:00
+INFO:root:\U0001f195 Lot de 18 blisters EV03 Flammes Obsidiennes FR\U0001f1eb\U0001f1f7
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 85.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399794862-lot-de-18-blisters-ev03-flammes-obsidiennes-fr
+
+INFO:root:2024-04-21 20:58:16.690766+00:00
+INFO:root:\U0001f195 lot de 6 tripack EV02 Évolution à Paldea FR\U0001f1eb\U0001f1f7
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 80.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399806691-lot-de-6-tripack-ev02-evolution-a-paldea-fr
+
+INFO:root:2024-04-21 20:59:23.407549+00:00
+INFO:root:\U0001f195 lot de 6 tripack EV02 Évolution à Paldea FR\U0001f1eb\U0001f1f7
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 80.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399806691-lot-de-6-tripack-ev02-evolution-a-paldea-fr
+
+INFO:root:2024-04-21 21:15:45.522060+00:00
+INFO:root:\U0001f195 Carte Pokémon Vert de Fer EX
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 104.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399859351-carte-pokemon-vert-de-fer-ex
+
+INFO:root:2024-04-21 21:16:51.658563+00:00
+INFO:root:\U0001f195 Carte Pokémon Vert de Fer EX
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : 
+\U0001f4b4 Prix : 104.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399859351-carte-pokemon-vert-de-fer-ex
+
+INFO:root:2024-04-21 21:39:28.024903+00:00
+INFO:root:\U0001f195 ETB 151 scellé francais
+\U0001f525 Marque : Pokémon
+\U0001f4d0 Taille : Taille unique
+\U0001f4b4 Prix : 100.0 €
+\u2b50 Réputation : Non noté ATM
+\U0001f517 https://www.vinted.fr/items/4399914304-etb-151-scelle-francais
+
