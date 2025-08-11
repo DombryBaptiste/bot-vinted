@@ -1,0 +1,16 @@
+# Bot Vinted → Telegram (basé sur vinted-api-wrapper)
+
+Surveille une recherche/sélection Vinted et envoie un message Telegram  
+lorsque de nouveaux items apparaissent (**ordre** `newest_first`).
+
+---
+
+## 📦 Prérequis
+```bash
+pip install vinted-api-wrapper requests python-dotenv
+```
+
+## Variables d'environnement (ou .env à la racine)
+
+TELEGRAM_BOT_TOKEN="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+TELEGRAM_CHAT_ID="xxxxxxxxxxxxxxxxxxxxxxxxx"

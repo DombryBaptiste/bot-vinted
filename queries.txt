@@ -1,0 +1,3 @@
+# Une requête par ligne. Les lignes commençant par # sont ignorées.
+# Exemples :
+https://www.vinted.fr/catalog?search_text=dracaufeu+199&price_from=100.0&currency=EUR&search_id=25535290022&order=newest_first
